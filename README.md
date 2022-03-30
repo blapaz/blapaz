@@ -1,4 +1,4 @@
-![Banner Image](https://media3.giphy.com/media/5nLtgLoclaPxS/200.gif)
+![Banner Image](https://s3.us-east-2.amazonaws.com/storage.github/panda.gif)
 
 ## Ben LaPaz 🐼
 
